@@ -34,17 +34,17 @@ I am an **undergraduate Computer Science student** specializing in **Intelligent
 
 ### 💻 Featured AI/ML Projects
 
-#### 🤖 [DiabeteBot — Medical RAG Chatbot](https://github.com/jstn77)
+#### 🤖 [DiabeteBot — Medical RAG Chatbot](https://github.com/Kian76-IT/RAG_Medical_chatBot.git)
 > *Python, RAG, FAISS, ALBERT, LLM Integration*
 * Engineered a Retrieval-Augmented Generation (RAG) pipeline preprocessing medical datasets for domain-specific context retrieval.
 * Deployed **ALBERT** combined with **FAISS** for fast semantic search across unstructured medical texts, evaluated with Precision@K and MRR metrics.
 
-#### 🖐️ [AirBlocks — Vision-Based Interaction Module](https://github.com/jstn77)
+#### 🖐️ [AirBlocks — Vision-Based Interaction Module](https://github.com/jstn77/Air-Blocks-Hand-Gesture-Tracking-Block-Puzzle-Games.git)
 > *Python, MediaPipe, OpenCV, Deep Learning, Computer Vision*
 * Built a real-time hand gesture recognition engine converting pinching movements into programmatic game controls.
 * Integrated MediaPipe Hand Landmarker (BlazePalm + CNN regression) tracking 21 distinct hand-joint coordinates with high FPS stability.
 
-#### 🗺️ [Indonesian Destination Recommender — Content-Based Engine](https://github.com/jstn77)
+#### 🗺️ [Indonesian Destination Recommender — Content-Based Engine](https://github.com/jstn77/Recommender_System_Destination_Indonesia.git)
 > *Python, Scikit-learn, TF-IDF, Cosine Similarity*
 * Developed a content-based recommendation engine processing text data from over 400 Indonesian tourist destinations.
 * Utilized TF-IDF vectorization and Cosine Similarity to output top-5 destination matches without requiring historical user interaction logs.
